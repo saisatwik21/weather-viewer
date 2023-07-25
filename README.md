@@ -1,6 +1,7 @@
 # Weather Viewer App - README
 
-![Weather Viewer](https://github.com/saisatwik21/weather-viewer-app/assets/weather-image.png)
+![weather](https://github.com/saisatwik21/weather-viewer/assets/97023666/63b347e3-cc73-4519-8981-8acc80cd8f9a)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
