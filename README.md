@@ -68,4 +68,4 @@ If you have any questions, suggestions, or feedback, you can reach us at:
 ---
 
 We hope you enjoy using the Weather Viewer App! Stay informed about the weather conditions in your desired locations! ☀️🌧️
-<hr>
+
